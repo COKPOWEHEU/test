@@ -1,0 +1,8 @@
+#скопировать с репозитория во вложенный каталог
+git clone <URL>
+
+git log -p
+
+git add <path> (например, git add .)
+
+git commit -a -m "comment"
